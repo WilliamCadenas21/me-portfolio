@@ -84,7 +84,8 @@ export default class Sidebar extends Component {
             <div className="colorlib-footer">
               <p>
                 <small>
-                  Made with <i className="icon-heart" aria-hidden="true" /> by{" "}
+                  Made with <i className="icon-heart" aria-hidden="true" /> by
+                  William Cadenas
                   <br></br>
                   Thanks{" "}
                   <a
