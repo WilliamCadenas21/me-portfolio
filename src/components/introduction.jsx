@@ -22,16 +22,6 @@ export default class Introduction extends Component {
                             Hi! <br />
                             I'm William
                           </h1>
-                          <p>
-                            <a
-                              className="btn btn-primary btn-learn"
-                              href=""
-                              rel="noopener noreferrer"
-                            >
-                              View CV
-                              <i className="icon-download4" />
-                            </a>
-                          </p>
                         </div>
                       </div>
                     </div>

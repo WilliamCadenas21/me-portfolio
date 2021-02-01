@@ -2,6 +2,7 @@ import "./App.css";
 
 import Introduction from "./components/introduction";
 import Sidebar from "./components/sidebar";
+import About from "./components/about";
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
         <Sidebar></Sidebar>
         <div id="colorlib-main">
           <Introduction></Introduction>
+          <About></About>
         </div>
       </div>
     </div>
