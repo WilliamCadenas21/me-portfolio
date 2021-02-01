@@ -26,8 +26,7 @@ export default class About extends Component {
                         Javascript, Python, Java, and some technologies related
                         to these environments like Html, CSS, and git. I know
                         Docker and Machine administration on the cloud with an
-                        operating system based on Linux. Degree Systems Engeneer
-                        1/2016 - 02 Universidad del Norte
+                        operating system based on Linux.
                       </p>
                     </div>
                   </div>
