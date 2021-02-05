@@ -66,7 +66,7 @@ export default class About extends Component {
               <div className="col-md-4 text-center animate-box">
                 <div className="services color-3">
                   <span className="icon">
-                    <i className="icon-phone3" />
+                    <i className="icon-data" />
                   </span>
                   <div className="desc">
                     <h3>Backend Development</h3>
@@ -81,14 +81,13 @@ export default class About extends Component {
               <div className="col-md-4 text-center animate-box">
                 <div className="services color-5">
                   <span className="icon">
-                    <i className="icon-data" />
+                    <i className="icon-phone3" />
                   </span>
                   <div className="desc">
                     <h3>Mobile Development</h3>
                     <p>
                       I have working several times with React-Native and also
-                      with Swift5 directly, giving support and building new
-                      features.
+                      giving support and building new features in existing apps.
                     </p>
                   </div>
                 </div>
