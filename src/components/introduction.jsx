@@ -11,7 +11,11 @@ export default class Introduction extends Component {
         >
           <div className="flexslider js-fullheight">
             <ul className="slides">
-              <li style={{ backgroundImage: "url(images/introduction.jpg)" }}>
+              <li
+                style={{
+                  backgroundImage: "url(images/introduction-landscape-1.jpg)",
+                }}
+              >
                 <div className="overlay" />
                 <div className="container-fluid">
                   <div className="row">
@@ -22,6 +26,17 @@ export default class Introduction extends Component {
                             Hi! <br />
                             I'm William
                           </h1>
+
+                          <p>
+                            <a
+                              className="btn btn-primary btn-learn"
+                              href="https://drive.google.com/file/d/1YW68VJPRnCsZCyLvWTk_lXT_GJqaEl9h/view?usp=sharing"
+                              target="_blank"
+                              rel="noopener noreferrer"
+                            >
+                              View CV <i className="icon-download4" />
+                            </a>
+                          </p>
                         </div>
                       </div>
                     </div>
