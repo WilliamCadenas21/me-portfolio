@@ -23,27 +23,61 @@ export default class Timeline extends Component {
                     data-animate-effect="fadeInLeft"
                   >
                     <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-2">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>
+                          Software Engineer At Dommo (Personal Project){" "}
+                          <span>Jul 2020 - Present</span>
+                        </h2>
+                        <ul>
+                          <li>
+                            Configuration of Elastic Search Service and Queries
+                          </li>
+                          <li>SEO for the main page and products</li>
+                          <li>Front development with VueJS and NuxtJS</li>
+                          <li>Backend development with NestJS and mongodb</li>
+                        </ul>
+                      </div>
+                    </div>
+                  </article>
+                  <article
+                    className="timeline-entry animate-box"
+                    data-animate-effect="fadeInLeft"
+                  >
+                    <div className="timeline-entry-inner">
                       <div className="timeline-icon color-3">
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
                         <h2>
-                          Software Engineer At Utler technologies{" "}
+                          Software Engineer At Utler technologies (Profesional){" "}
                           <span>Aug 2020 - Dec 2020</span>
                         </h2>
-                        <p>
-                          • Meet with the client to collect the requirements and
-                          make the estimation for each feature • Support and
-                          development on the backend side with Nodejs and common
-                          libraries in this environment like Express, Sequilize,
-                          Bcrypt, JWT, etc. • Developer of native iOS
-                          application on Swift4 as a learner and improving some
-                          features of an existing app. • React Native developer
-                          with iOS and android platform as a target • Client:{" "}
-                          <a href="https://www.virtuesmatter.com/">
-                            https://www.virtuesmatter.com/
-                          </a>
-                        </p>
+                        <ul>
+                          <li>
+                            Meet with the client to collect the requirements and
+                            make the estimation for each feature.
+                          </li>
+                          <li>
+                            Support and development on the backend side with
+                            Nodejs and common libraries in this environment like
+                            Express, Sequilize, Bcrypt, JWT, etc.
+                          </li>
+                          <li>
+                            Developer of native iOS application on Swift4 as a
+                            learner and improving some features of an existing
+                            app.
+                          </li>
+                          <li>
+                            React Native developer with iOS and android platform
+                            as a target. Client:{" "}
+                            <a href="https://www.virtuesmatter.com/">
+                              https://www.virtuesmatter.com/
+                            </a>
+                          </li>
+                        </ul>
                       </div>
                     </div>
                   </article>
@@ -57,18 +91,27 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>
-                          Software Engineer At Ebenezer Technologies{" "}
-                          <span>May 2020 - Jul 2020</span>
+                          Software Engineer At Ebenezer Technologies
+                          (Profesional) <span>May 2020 - Jul 2020</span>
                         </h2>
-                        <p>
-                          • Worked on Node js giving support to some
-                          applications supported in these technologies • Java
-                          Developer supporting and developing software for
-                          control a set of antennas with RFID technology •
-                          Developed Linux scripts with bash and build some
-                          background process • Work with ffmpg and rtsp to take
-                          a video and present in a web application
-                        </p>
+                        <ul>
+                          <li>
+                            Development on NodeJS giving support to some
+                            applications of this company.
+                          </li>
+                          <li>
+                            Java Developer supporting and developing software
+                            for control a set of antennas with RFID technology.
+                          </li>
+                          <li>
+                            Development of Linux scripts with bash and build
+                            some background process.
+                          </li>
+                          <li>
+                            Work with FFMPG and rtsp protcol to take a video and
+                            present in a web application.
+                          </li>
+                        </ul>
                       </div>
                     </div>
                   </article>
@@ -82,17 +125,43 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>
-                          Assistant research At Universidad EAFIT{" "}
+                          Assistant research At Universidad EAFIT (Profesional){" "}
                           <span>Dec 2019 - Ene 2020</span>
                         </h2>
-                        <p>
-                          • Administration of the LMS platform called Moodle •
-                          Development of a plugin for Moodle called “Sistema
-                          Recomendador” • Implementation of a Backend on Flask
-                          and Pyramid with Python to manage the logic of the
-                          plugin • Storage and management of the user activity
-                          data in MongoDB • Adapt the plugin for Canvas LMS
-                        </p>
+                        <ul>
+                          <li>
+                            Configuration of Elastic Search Service and Queries
+                          </li>
+                          <li>SEO for the main page and products</li>
+                          <li>Front development with VueJS and NuxtJS</li>
+                          <li>Backend development with NestJS and mongodb</li>
+                        </ul>
+                      </div>
+                    </div>
+                  </article>
+                  <article
+                    className="timeline-entry animate-box"
+                    data-animate-effect="fadeInLeft"
+                  >
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-1">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>
+                          Full Stack Engineer At Carpool Vita (Freelance){" "}
+                          <span>Nov 2018 - Jan 2019</span>
+                        </h2>
+                        <ul>
+                          <li>
+                            Development of the graphic interface with React
+                            Native implementing Redux for Android and iOS.
+                          </li>
+                          <li>
+                            Development of a Backend with NodeJS and Express to
+                            manage the logic of the application.
+                          </li>
+                        </ul>
                       </div>
                     </div>
                   </article>
